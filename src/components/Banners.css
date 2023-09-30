@@ -1,0 +1,92 @@
+.banner {
+  display: flex;
+  width: 900px;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 16px;
+  border-radius: 6px;
+  background-color: pink;
+}
+
+.bn-success {
+background-color: #ECFDF5;
+}
+
+.bn-warning {
+  background-color: #FFFBEB;
+}
+
+.bn-error {
+  background-color: #FEF2F2;
+}
+
+.bn-neutral {
+  background-color: #EFF6FF;
+}
+
+.bn-sl {
+
+}
+
+
+
+.banner > .ti-info-container {
+  display: flex;
+  align-items: flex-start;
+  width: 900px;
+  flex-direction: column;
+  gap: 8px;
+  
+}
+
+.banner > .ti-info-container > .title-success {
+  color: #065F46;
+  font-size: 14px;
+  margin: 0px;
+
+}
+
+.banner > .ti-info-container > .info-success {
+  color: #047857;
+  font-size: 14px;
+  margin: 0px;
+}
+
+.banner > .ti-info-container > .title-warning {
+  color: #92400E;
+  font-size: 14px;
+  margin: 0px;
+
+}
+
+.banner > .ti-info-container > .info-warning {
+  color: #B45309;
+  font-size: 14px;
+  margin: 0px;
+}
+
+.banner > .ti-info-container > .title-error {
+  color: #92400E;
+  font-size: 14px;
+  margin: 0px;
+
+}
+
+.banner > .ti-info-container > .info-error {
+  color: #B45309;
+  font-size: 14px;
+  margin: 0px;
+}
+
+.banner > .ti-info-container > .title-neutral {
+  color: #1E40AF;
+  font-size: 14px;
+  margin: 0px;
+
+}
+
+.banner > .ti-info-container > .info-neutral {
+  color: #1C51B9;
+  font-size: 14px;
+  margin: 0px;
+}
