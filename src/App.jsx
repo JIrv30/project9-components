@@ -6,8 +6,8 @@ import Testimonials from './components/Testimonials'
 function App() {
   return (
     <>
-      <Cards/>
-    {/* <Testimonials /> */}
+      
+    <Testimonials />
     </>
   )
   
@@ -33,5 +33,7 @@ export default App
     <Banners
     status='success'>thing
     </Banners> */}
+
+    // <Cards/>
 
 

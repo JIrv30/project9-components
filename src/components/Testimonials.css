@@ -1,0 +1,23 @@
+.image {
+  width: 300px;
+  border-radius: 12px;
+  position: relative;
+  top: 425px;
+  left: 50px;
+}
+
+.text {
+  background-color: #2545B8;
+  color: #FFF;
+  padding-left: 400px;
+  font-size: 24px;
+  line-height: 32px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.quote {
+  width: 48px;
+}
