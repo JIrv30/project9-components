@@ -1,11 +1,13 @@
 import Badges from '../src/components/Badges'
 import Banners from '../src/components/Banners'
 import Cards from '../src/components/Cards'
+import Testimonials from './components/Testimonials'
 
 function App() {
   return (
     <>
-    <Cards/>
+      <Cards/>
+    {/* <Testimonials /> */}
     </>
   )
   
@@ -31,3 +33,5 @@ export default App
     <Banners
     status='success'>thing
     </Banners> */}
+
+
